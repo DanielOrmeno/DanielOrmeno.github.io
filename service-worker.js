@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9c5646d179f18192d449ea61a985006b.js"
+  "/precache-manifest.9eb90ede1353802ec145c9fe2b5eeda7.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "docv"});
+workbox.core.setCacheNameDetails({prefix: "vuecv"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
